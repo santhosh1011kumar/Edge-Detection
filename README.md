@@ -1,5 +1,5 @@
-# Edge-Detection# edge-detection-opencv
-## NAME : SANTHOSH KUMAR A
+# Edge-Detection Using OpenCV
+## NAME: SANTHOSH KUMAR A
 ## REG NO: 212224230250
 ## Aim
 
